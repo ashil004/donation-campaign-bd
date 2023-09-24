@@ -1,0 +1,214 @@
+[
+    {
+        "id":1,
+        "picture":"https://i.ibb.co/L8NG5bh/Rectangle-4284.png",
+        "title": "Clean water for children",
+        "category":"Health",
+        "description":" A lifeline for brighter futures. Our mission is to provide clean, safe, and accessible water to children worldwide, ensuring their health, education, and happiness. Join us in making every drop count for the next generation.",
+        "price":250,
+        "color":{
+            "card_bg":"rgba(0, 82, 255, 0.15)",
+            "category_bg":"#0052FF26",
+            "title_color":"#0052FF26"
+
+        }
+        
+        
+
+    },
+    {
+        "id":2,
+        "picture":"https://i.ibb.co/pwSWLcW/Education.png",
+        "title": " Bridging the Opportunity Gap",
+        "category":"Education",
+        "description":" A Journey through Education' is a transformative exploration of the pivotal role education plays in shaping our lives. This enlightening journey delves into the myriad ways education empowers individuals, fostering personal growth, critical thinking, and opportunities for a brighter future. Join us as we navigate the world of knowledge, unlocking doors to endless possibilities and inspiring lifelong learning.",
+        "price":600,
+        "color":{
+            "card_bg":"rgba(255, 68, 74, 0.15)",
+            "category_bg":"#FF444A26",
+            "title_color":"#FF444A26"
+
+        }
+        
+        
+
+    },
+    {
+        "id":3,
+        "picture":"https://i.ibb.co/hsYPrbc/Food.png",
+        "title": "Adventures in Gastronomy",
+        "category":"Food",
+        "description":"Embark on a delectable journey with 'Adventures in Gastronomy,' where flavors from around the world come to life. Explore the art of cooking, discover culinary traditions, and savor the joy of exquisite dining experiences. Join us in celebrating the rich tapestry of global cuisine and culinary creativity.",
+        "price":5,
+        "color":{
+            "card_bg":"rgba(248, 113, 71, 0.15)",
+            "category_bg":"#F8714726",
+            "title_color":"#F8714726"
+
+        }
+        
+        
+
+    },
+    {
+        "id":4,
+        "picture":"https://i.ibb.co/ThZ05Y7/Rectangle-4287.png",
+        "title": " A Stylish Exploration",
+        "category":"Clothing",
+        "description":" A Stylish Exploration' and embark on a captivating journey through the ever-evolving world of fashion. This immersive experience celebrates the artistry, innovation, and cultural significance of clothing, offering insights into trends, design, and self-expression. Join us as we navigate the glamorous and dynamic realm of style, where creativity knows no bounds.",
+        "price":20,
+        "color":{
+            "card_bg":"rgba(121, 194, 63, 0.15)",
+            "category_bg":"#79C23F26",
+            "title_color":"#79C23F26"
+
+        }
+        
+        
+
+    },
+    {
+        "id":5,
+        "picture":"https://i.ibb.co/W5KMLf5/pexels-polina-tankilevitch-3873176-1.jpg",
+        "title": " Nurturing a Vibrant Life",
+        "category":"Health",
+        "description":"  Nurturing a Vibrant Life' is your compass to a life brimming with vitality and well-being. This comprehensive guide explores the transformative power of positive habits, empowering you to make informed choices for a healthier and more fulfilling life. Join us on this journey to unlock the secrets of lasting wellness, both for your body and your mind, and discover the joy of nurturing a vibrant, balanced life.",
+        "price":10,
+        "color":{
+            "card_bg":"rgba(0, 82, 255, 0.15)",
+            "category_bg":"#0052FF26",
+            "title_color":"#0052FF26"
+
+        }
+        
+        
+
+    },
+    {
+        "id":6,
+        "picture":"https://i.ibb.co/4FwG3mC/pexels-pixabay-261895.jpg",
+        "title": " Empowering Minds for Tomorrow",
+        "category":"Education",
+        "description":" Empowering Minds for Tomorrow' is a dynamic educational initiative committed to fostering boundless potential in learners of all ages. Dive into a world of limitless knowledge, where innovation meets inspiration, and the pursuit of lifelong learning takes center stage. Join us on this transformative journey, as we empower minds, nurture creativity, and prepare individuals to thrive in the ever-evolving landscape of tomorrow's opportunities.",
+        "price":90,
+        "color":{
+            "card_bg":"rgba(255, 68, 74, 0.15)",
+            "category_bg":"#FF444A26",
+            "title_color":"#FF444A26"
+
+        }
+        
+        
+
+    },
+    {
+        "id":7,
+        "picture":"https://i.ibb.co/rcpsGYY/pexels-amar-preciado-17593640-1.jpg",
+        "title": " From Kitchen to Table",
+        "category":"Food",
+        "description":"  From Kitchen to Table is a culinary masterpiece that takes you on an exquisite journey through the heart of gastronomy. This immersive experience unveils the secrets of culinary excellence, from mastering cooking techniques to the artistry of presentation. Explore the diverse flavors and cultural influences that enrich our plates, all while learning the invaluable skills that turn every meal into a work of art. Join us in celebrating the magic of cooking, where creativity knows no bounds, and every dish is a canvas of flavors waiting to be savored.",
+        "price":50,
+        "color":{
+            "card_bg":"rgba(248, 113, 71, 0.15)",
+            "category_bg":"#F8714726",
+            "title_color":"#F8714726"
+
+        }
+        
+        
+
+    },
+    {
+        "id":8,
+        "picture":"https://i.ibb.co/L8NG5bh/Rectangle-4284.png",
+        "title": "Fashion with a Purpose",
+        "category":"Clothing",
+        "description":" Fashion with a Purpose is a transformative concept that transcends trends and glamour. It's a movement that empowers individuals to express their unique style while making a positive impact on the world. This fashion philosophy focuses on sustainability, ethical practices, and conscious consumerism. It encourages us to choose clothing that not only looks good but also does good – supporting fair labor, eco-friendly materials, and charitable causes. Fashion with a Purpose is a statement of how fashion can be a force for positive change, enhancing our lives and our planet.",
+        "price":100,
+        "color":{
+            "card_bg":"rgba(121, 194, 63, 0.15)",
+            "category_bg":"#79C23F26",
+            "title_color":"#79C23F26"
+
+        }
+        
+        
+
+    },
+    {
+        "id":9,
+        "picture":"https://i.ibb.co/DLr3kCK/pexels-pixabay-263337.jpg",
+        "title": "Your Health Journey",
+        "category":"Health",
+        "description":"  Navigating Wellness and Vitality is an individualized exploration of well-being, emphasizing the importance of personal health and self-care. It's a roadmap to achieving and maintaining a balanced and healthy lifestyle. This journey encompasses physical fitness, mental wellness, nutrition, and mindfulness, offering guidance, motivation, and strategies for making sustainable and positive health choices. Join us on Your Health Journey to unlock your full potential and experience the rewards of living a healthier, happier life.",
+        "price":260,
+        "color":{
+            "card_bg":"rgba(0, 82, 255, 0.15)",
+            "category_bg":"#0052FF26",
+            "title_color":"#0052FF26"
+
+        }
+        
+        
+
+    },
+    {
+        "id":10,
+        "picture":"https://i.ibb.co/RcRhHkq/pexels-max-fischer-5212345.jpg",
+        "title": " Nurturing Young Minds",
+        "category":"Education",
+        "description":" Nurturing Young Minds is a heartfelt dedication to cultivating the potential within every child. It is a commitment to providing the guidance, support, and educational resources needed to empower the future leaders of our world. Through nurturing young minds, we aim to create a foundation of knowledge, curiosity, and resilience that will help children navigate life's challenges and opportunities with confidence and wisdom. Join us in this transformative journey of growth, where every young mind is a precious seed waiting to bloom into a brilliant future.",
+        "price":270,
+        "color":{
+            "card_bg":"rgba(255, 68, 74, 0.15)",
+            "category_bg":"#FF444A26",
+            "title_color":"#FF444A26"
+
+        }
+        
+        
+
+    },
+    {
+        "id":11,
+        "picture":"https://i.ibb.co/L8NG5bh/Rectangle-4284.png",
+        "title": "Adventures in Gastronomy",
+        "category":"Food",
+        "description":" Adventures in Gastronomy is a culinary expedition that transcends the boundaries of taste, culture, and creativity. It's a journey that invites you to explore the rich tapestry of global cuisines, savoring the artistry of chefs, and delving into the cultural significance of food. This adventure is a celebration of flavors, traditions, and culinary innovation, offering a feast for the senses and a deeper understanding of the world through its diverse cuisines. Join us as we embark on these flavorful escapades, where every bite tells a story and every meal becomes an unforgettable adventure",
+        "price":230,
+        "color":{
+            "card_bg":"rgba(248, 113, 71, 0.15)",
+            "category_bg":"#F8714726",
+            "title_color":"#F8714726"
+
+        }
+        
+        
+
+    },
+    {
+        "id":12,
+        "picture":"https://i.ibb.co/L8NG5bh/Rectangle-4284.png",
+        "title": "Crafting Your Style",
+        "category":"Clothing",
+        "description":"Crafting Your Style is an inspiring guide to the art of personal expression through fashion. It's a journey of self-discovery and creativity that empowers individuals to curate their unique identity through clothing and accessories. This exploration delves into the principles of fashion, color, and design, helping you discover your own sense of style and confidence. Join us on this path of self-expression, where every outfit becomes a canvas, and your wardrobe becomes a reflection of your personality and individuality. Crafting Your Style is your toolkit for embracing fashion as a form of artistic expression",
+        "price":350,
+        "color":{
+            "card_bg":"rgba(121, 194, 63, 0.15)",
+            "category_bg":"#79C23F26",
+            "title_color":"#79C23F26"
+
+        }
+        
+        
+
+    }
+    
+        
+        
+
+    
+    
+    
+    
+]
