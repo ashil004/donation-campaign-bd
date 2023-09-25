@@ -3,6 +3,7 @@ import Cardassimble from "./Cardassimble";
 
 
 
+
 const Home = () => {
     const [card, setcard] = useState([]);
     useEffect(() => {
@@ -31,6 +32,7 @@ const Home = () => {
                 <div className="grid grid-cols-4 gap-6">
                 {
                     card.map((card)=><Cardassimble key={card.id} card={card}></Cardassimble>)
+                    
                 }
                 </div>
 
