@@ -1,5 +1,6 @@
 import { useLoaderData, useParams } from "react-router-dom";
 import swal from 'sweetalert';
+import { saveDonastionApplication } from "./component/localStoroges";
 
 
 const CardInf = () => {
@@ -9,6 +10,7 @@ const CardInf = () => {
     const ea =eax.find(ea => ea.id === idInt)
     console.log(ea);
      const buttonClick = () => {
+        saveDonastionApplication(id);
         swal('Good Job!','Thank you. For your donate.');
 
      }
@@ -18,7 +20,7 @@ const CardInf = () => {
             
             <img  className="mx-auto pt-16 flex justify-center items-center"src={ea.picture}></img>
             
-            <div className="ml-[320px] mt-[-60px] absolute bg-black w-[42%]  opacity-50  p-2 ">
+            <div className=" md:ml-[320px] mt-[-60px] absolute bg-black  w-full lg:w-[42%]  opacity-50  p-2 ">
             <button onClick={buttonClick} className="btn btn-primary">Donate ${ea.price}</button> 
             </div>
             

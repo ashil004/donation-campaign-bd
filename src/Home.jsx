@@ -16,7 +16,7 @@ const Home = () => {
             <div className="hero h-[60vh]" style={{ backgroundImage: 'url(https://i.ibb.co/G5ptSMH/Rectangle-4281.png)' }} >
                 <div className="hero-overlay bg-opacity-80 bg-white"></div>
 
-                <div className="pt-32 " >
+                <div className=" pt-32 " >
 
                     <h3 className="text-center font-bold text-5xl ">I Grow By Helping People In Need</h3>
                     <div className="flex justify-center  items-center pt-16">
@@ -29,7 +29,7 @@ const Home = () => {
             </div>
             <div className="pt-16 ">
                 <h3 className="text-center p-6 text-3xl font-bold"> The Donation Group :{card.length} </h3>
-                <div className="grid grid-cols-4 gap-6">
+                <div className="grid md:grid-cols-2 gap-6 lg:grid-cols-4 gap-6">
                 {
                     card.map((card)=><Cardassimble key={card.id} card={card}></Cardassimble>)
                     
