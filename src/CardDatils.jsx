@@ -17,9 +17,11 @@ const CardInf = () => {
             
             
             <img  className="mx-auto pt-16 flex justify-center items-center"src={ea.picture}></img>
-            <div className="ml-[360px] mt-[-60px] ">
+            
+            <div className="ml-[320px] mt-[-60px] absolute bg-black w-[42%]  opacity-50  p-2 ">
             <button onClick={buttonClick} className="btn btn-primary">Donate ${ea.price}</button> 
             </div>
+            
 
             <div className="pt-10">
             <h3 className="text-3xl font-bold">{ea.title}</h3>
