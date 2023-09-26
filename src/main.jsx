@@ -12,14 +12,20 @@ import Home from './Home';
 import Donation from './Donation';
 import Statistics from './Statistics';
 import CardInf from './CardDatils';
+import Error from './Error';
+
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    errorElement:<Error></Error>,
+  
     children : [
       {
         path:"/",
         element:<Home></Home>,
+        
+        
       },
       {
         path:"/donation",
